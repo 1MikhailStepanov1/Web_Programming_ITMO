@@ -1,0 +1,28 @@
+*{
+    font-variant: small-caps;
+    font-family: "Outfit", "Tahoma", "Arial", sans-serif;
+}
+@media only screen
+and (min-width : 1177px)
+and (max-width : 1920px) {
+    #root {
+        height: 100vh;
+        background: linear-gradient(to bottom right, lightpink, cornflowerblue);
+    }
+}
+
+@media (min-width: 756px) and (max-width: 1177px) {
+    #root {
+        height: 100vh;
+        background: linear-gradient(to bottom right, #fff9b6, #d293ef);
+    }
+}
+
+@media only screen
+and (min-width : 0px)
+and (max-width : 756px) {
+    #root {
+        height: 100vh;
+        background: linear-gradient(to bottom right, #adfca7, #295fc2);
+    }
+}
