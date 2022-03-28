@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE html>
+<html
+        xmlns="http://www.w3.org/1999/xhtml"
+        xmlns:h="http://java.sun.com/jsf/html"
+        xmlns:f="http://java.sun.com/jsf/core"
+        xmlns:a="http://xmlns.jcp.org/jsf/passthrough"
+        xmlns:ui="http://java.sun.com/jsf/facelets"
+>
+<h:head>
+    <title>Lab 3</title>
+    <h:outputScript library="js" name="buttons.js"/>
+    <h:outputScript library="js" name="click.js"/>
+    <h:outputScript library="js" name="jquery-3.6.0.js"/>
+    <h:outputStylesheet library="styles" name="main.css"/>
+    <link rel="preconnect" href="https://fonts.googleapis.com"/>
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin=""/>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit&amp;display=swap" rel="stylesheet"/>
+</h:head>
+<h:body>
+    <f:view>
+        <div id="container">
+            <div id="backButton">
+                <h:form>
+                    <h:commandLink id="link" action="StartPage" value="Вернуться назад"/>
+                </h:form>
+            </div>
+            <div id="userInput">
+                <h:panelGroup rendered="true" id="graph">
+                    <svg id="svg" class="svg" height="400" width="400" onclick="shot(event)">
+                        <!--- Areas -->
+                        <polygon fill="#84d9d9" fill-opacity="0.4"
+                                 points="200,200 200,#{200 + 150*hitBean.r/5} #{200 - 150*hitBean.r/5},#{200 + 150*hitBean.r/5} #{200 - 150*hitBean.r/5},200"
+                                 stroke="black"/>
+                        <polygon fill="#84d9d9" fill-opacity="0.4"
+                                 points="200,200 200,#{200 - 150*hitBean.r/5} #{200 + 150*hitBean.r/5},200"
+                                 stroke="black"/>
+                        <path d="M 200,#{200 + 75*hitBean.r/5} A #{75*hitBean.r/5} #{75*hitBean.r/5} 90 0 0 #{200 + 75*hitBean.r/5},200 L 200,200 Z"
+                              fill="#84d9d9" fill-opacity="0.4"
+                              stroke="black"/>
+                        <!--- Coordinate axes -->
+                        <line stroke="black" x1="0" x2="400" y1="200" y2="200"/>
+                        <line stroke="black" x1="200" x2="200" y1="0" y2="400"/>
+                        <!--- Axis directions -->
+                        <polygon fill="black" stroke="black" points="200,0 195,10 205,10"/>
+                        <polygon fill="black" stroke="black" points="400,200 390,195 390,205"/>
+                        <!--- Segments -->
+                        <line stroke="black" x1="50" x2="50" y1="197" y2="203"/>
+                        <line stroke="black" x1="80" x2="80" y1="197" y2="203"/>
+                        <line stroke="black" x1="110" x2="110" y1="197" y2="203"/>
+                        <line stroke="black" x1="140" x2="140" y1="197" y2="203"/>
+                        <line stroke="black" x1="170" x2="170" y1="197" y2="203"/>
+
+                        <line stroke="black" x1="230" x2="230" y1="197" y2="203"/>
+                        <line stroke="black" x1="260" x2="260" y1="197" y2="203"/>
+                        <line stroke="black" x1="290" x2="290" y1="197" y2="203"/>
+                        <line stroke="black" x1="320" x2="320" y1="197" y2="203"/>
+                        <line stroke="black" x1="350" x2="350" y1="197" y2="203"/>
+
+
+                        <line stroke="black" x1="197" x2="203" y1="50" y2="50"/>
+                        <line stroke="black" x1="197" x2="203" y1="80" y2="80"/>
+                        <line stroke="black" x1="197" x2="203" y1="110" y2="110"/>
+                        <line stroke="black" x1="197" x2="203" y1="140" y2="140"/>
+                        <line stroke="black" x1="197" x2="203" y1="170" y2="170"/>
+
+                        <line stroke="black" x1="197" x2="203" y1="230" y2="230"/>
+                        <line stroke="black" x1="197" x2="203" y1="260" y2="260"/>
+                        <line stroke="black" x1="197" x2="203" y1="290" y2="290"/>
+                        <line stroke="black" x1="197" x2="203" y1="320" y2="320"/>
+                        <line stroke="black" x1="197" x2="203" y1="350" y2="350"/>
+                        <!--- Shot shadow -->
+                        <ui:repeat value="#{hitBean.getHistory()}" var="data">
+                            <circle r="3" cx="#{data.x*30 + 200}"
+                                    cy="#{200 - data.y*30}" fill='#{data.result ? "#3D6C36FF" : "#FF0051FF"}'/>
+                        </ui:repeat>
+                    </svg>
+                </h:panelGroup>
+                <div class="form">
+                    <h:form id="form" name="form">
+                        <div id="x">
+                            <h:outputLabel>X value
+                                <h:commandButton label="-2" value="-2" class="unclicked" action="#{hitBean.setX(-2)}">
+                                    <f:ajax execute="@this" render="@none"/>
+                                </h:commandButton>
+                                <h:commandButton label="-1.5" value="-1.5" class="unclicked"
+                                                 action="#{hitBean.setX(-1.5)}">
+                                    <f:ajax execute="@this" render="@none"/>
+                                </h:commandButton>
+                                <h:commandButton label="-1" value="-1" class="unclicked" action="#{hitBean.setX(-1)}">
+                                    <f:ajax execute="@this" render="@none"/>
+                                </h:commandButton>
+                                <h:commandButton label="-0.5" value="-0.5" class="unclicked"
+                                                 action="#{hitBean.setX(-0.5)}">
+                                    <f:ajax execute="@this" render="@none"/>
+                                </h:commandButton>
+                                <h:commandButton label="0" value="0" class="unclicked" action="#{hitBean.setX(0)}">
+                                    <f:ajax execute="@this" render="@none"/>
+                                </h:commandButton>
+                                <h:commandButton label="0.5" value="0.5" class="unclicked"
+                                                 action="#{hitBean.setX(0.5)}">
+                                    <f:ajax execute="@this" render="@none"/>
+                                </h:commandButton>
+                                <h:commandButton label="1" value="1" class="unclicked" action="#{hitBean.setX(1)}">
+                                    <f:ajax execute="@this" render="@none"/>
+                                </h:commandButton>
+                                <h:commandButton label="1.5" value="1.5" class="unclicked"
+                                                 action="#{hitBean.setX(1.5)}">
+                                    <f:ajax execute="@this" render="@none"/>
+                                </h:commandButton>
+                                <h:commandButton label="2" value="2" class="unclicked" action="#{hitBean.setX(2)}">
+                                    <f:ajax execute="@this" render="@none"/>
+                                </h:commandButton>
+                            </h:outputLabel>
+                        </div>
+                        <div id="y">
+                            <h:outputLabel>Y value
+                                <h:inputText a:placeholder="-5 ... 5" maxlength="16" value="#{hitBean.y}">
+                                    <f:ajax execute="@this" render="@this"/>
+                                </h:inputText>
+                            </h:outputLabel>
+                        </div>
+                        <div id="r">
+                            <h:outputLabel>R value
+                                <h:selectOneRadio id="select" value="#{hitBean.r}">
+                                    <f:selectItem itemLabel="1" itemValue="1"/>
+                                    <f:selectItem itemLabel="2" itemValue="2"/>
+                                    <f:selectItem itemLabel="3" itemValue="3"/>
+                                    <f:selectItem itemLabel="4" itemValue="4"/>
+                                    <f:selectItem itemLabel="5" itemValue="5"/>
+                                    <f:ajax execute="@this" render="graph"/>
+                                </h:selectOneRadio>
+                            </h:outputLabel>
+                        </div>
+                        <div id="buttons">
+                            <h:commandButton id="send" type="submit" value="Выстрел" action="#{hitBean.submit()}">
+                                <f:ajax execute="@form" render="table error graph"/>
+                            </h:commandButton>
+                            <h:commandButton id="reset_table" value="Сброс результатов" action="#{hitBean.resetHistory()}">
+                                <f:ajax execute="@this" render="table graph"/>
+                            </h:commandButton>
+                        </div>
+                    </h:form>
+                    <h:form>
+                        <h:inputHidden value="#{hitBean.x}" id="x_click" a:hidden="true"/>
+                        <h:inputHidden value="#{hitBean.y}" id="y_click" a:hidden="true"/>
+                        <h:commandButton a:hidden="true" id="sendHidden" type="submit" value="Выстрел" action="#{hitBean.submitClick()}">
+                            <f:ajax execute="@form" render="table error graph"/>
+                        </h:commandButton>
+                    </h:form>
+                </div>
+            </div>
+        </div>
+        <div id="errors">
+            <h:panelGroup rendered="true" id="error">
+                <div id="error_x">
+                    <h:outputText value="#{hitBean.errorX.getMessage()}"/>
+                </div>
+                <div id="error_y">
+                    <h:outputText value="#{hitBean.errorY.getMessage()}"/>
+                </div>
+                <div id="error_r">
+                    <h:outputText value="#{hitBean.errorR.getMessage()}"/>
+                </div>
+            </h:panelGroup>
+        </div>
+        <div id="resultsTable">
+            <h:dataTable id="table" value="#{hitBean.getHistory()}" var="response">
+                <h:column>
+                    <f:facet name="header">X</f:facet>
+                    #{response.x}
+                </h:column>
+                <h:column>
+                    <f:facet name="header">Y</f:facet>
+                    #{response.y}
+                </h:column>
+                <h:column>
+                    <f:facet name="header">R</f:facet>
+                    #{response.r}
+                </h:column>
+                <h:column>
+                    <f:facet name="header">Time</f:facet>
+                    #{response.currentTime}
+                </h:column>
+                <h:column>
+                    <f:facet name="header">Duration</f:facet>
+                    #{response.duration}
+                </h:column>
+                <h:column>
+                    <f:facet name="header">Result</f:facet>
+                    #{response.result}
+                </h:column>
+            </h:dataTable>
+        </div>
+    </f:view>
+</h:body>
+</html>

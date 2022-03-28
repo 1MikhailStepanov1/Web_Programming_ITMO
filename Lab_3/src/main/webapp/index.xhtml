@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE html>
+<html
+        xmlns="http://www.w3.org/1999/xhtml"
+        xmlns:h="http://java.sun.com/jsf/html"
+        xmlns:f="http://java.sun.com/jsf/core">
+<h:head>
+    <title>Start page</title>
+    <h:outputStylesheet library="styles" name="start.css"/>
+    <h:outputScript library="js" name="time.js"/>
+    <script type="text/javascript" src="resources/js/jquery-3.6.0.js"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com"/>
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin=""/>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit&amp;display=swap" rel="stylesheet"/>
+</h:head>
+<f:view>
+    <h:body>
+        <div id="header">
+            <a href="https://github.com/1MikhailStepanov1">
+                Stepanov M.A. P3231
+                Variant: 422297
+            </a>
+        </div>
+        <div id="time">
+            <div id="div1">Местное время:</div>
+            <div id="div2">${timeBean.hour}:${timeBean.min}:${timeBean.sec} ${timeBean.day}.${timeBean.month}.${timeBean.year}</div>
+        </div>
+        <div id="continueButton">
+            <h:form>
+                <h:commandLink id="link" action="MainPage">Постерлять по графику</h:commandLink>
+            </h:form>
+        </div>
+    </h:body>
+</f:view>
+</html>
