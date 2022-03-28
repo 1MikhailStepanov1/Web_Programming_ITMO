@@ -1,0 +1,230 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Lab1</title>
+    <link rel="icon" href="img/favicon.ico">
+    <script src="js/jquery-3.6.0.js"></script>
+    <script src="js/draw_table.js"></script>
+    <style>
+        .header {
+            background-color: gray;
+            font-family: "Georgia", "Tahoma", "Arial", cursive;
+            font-size: 15pt;
+        }
+
+        #num2 {
+            position: absolute;
+            right: 0;
+        }
+
+        body {
+            margin: 0;
+            background-color: #a7a6aa;
+        }
+
+        main {
+            width: 100%;
+            height: 100%;
+
+        }
+        main svg {
+            display: inline-block;
+            margin-left: 13%;
+            margin-top: 5%;
+        }
+        .user_input{
+            display: flex;
+        }
+        .form {
+            margin-top: 100px;
+            padding-left: 10%;
+            display: inline-block;
+        }
+
+        .text_input_type {
+            padding-top: 0%;
+        }
+        .y{
+            /*display: flex;*/
+        }
+        label[for="y_value"] {
+            padding-top: 0px;
+            padding-left: 145px;
+            font-weight: bold;
+        }
+
+        label[for="r_value"] {
+            padding-top: 100px;
+            padding-left: 145px;
+            font-weight: bold;
+        }
+
+        .error_text {
+            color: BLACK;
+            font-weight: bold;
+        }
+
+        #error_y {
+            top: 130px;
+            left: 145px;
+        }
+
+        #error_r {
+            top: 205px;
+            left: 145px;
+        }
+
+        label[for="x_value1"] {
+            font-weight: bold;
+            padding-left: 40%;
+        }
+
+        #x_value1_label {
+            top: 0;
+            left: 140px;
+        }
+
+        .x_value {
+            top: 20px;
+        }
+
+        .radio {
+            margin-top: 50px;
+            margin-left: 100px;
+        }
+        #error_y, #error_r{
+            margin-top: 10px;
+            padding-left: 145px;
+            margin-bottom: 10px;
+        }
+        .buttons {
+            margin-top: 100px;
+            margin-left: 200px;
+            margin-bottom: 50px;
+        }
+
+        section.table_section {
+            margin-top: 50px;
+            margin-left: 150px;
+        }
+
+        table {
+            border-collapse: collapse;
+            left: 20%;
+        }
+
+        th {
+            width: 200px;
+            border: 5px solid black;
+            border-collapse: collapse;
+        }
+
+        tr {
+            width: 200px;
+            border: 1px solid black;
+            border-collapse: collapse;
+        }
+
+        td {
+            text-align: center;
+            width: 200px;
+            border: 1px solid black;
+            border-collapse: collapse;
+        }
+    </style>
+</head>
+<body>
+<header class="header">
+    <span id="num1">Student: Stepanov M.A. Group: P3231</span>
+    <span id="num2">Variant: 31014</span>
+</header>
+<main class="main">
+    <section class="user_input">
+        <svg height="400" width="400" xmlns="http://www.w3.org/2000/svg">
+            <!--- Coordinate axes --->
+            <line stroke="black" x1="0" x2="400" y1="200" y2="200"></line>
+            <line stroke="black" x1="200" x2="200" y1="0" y2="400"></line>
+            <!--- Axis directions --->
+            <polygon fill="black" stroke="black" points="200,0 195,10 205,10"></polygon>
+            <polygon fill="black" stroke="black" points="400,200 390,195 390,205"></polygon>
+            <!--- Segments --->
+            <line stroke="black" x1="50" x2="50" y1="195" y2="205"></line>
+            <line stroke="black" x1="125" x2="125" y1="195" y2="205"></line>
+            <line stroke="black" x1="275" x2="275" y1="195" y2="205"></line>
+            <line stroke="black" x1="350" x2="350" y1="195" y2="205"></line>
+            <line stroke="black" x1="195" x2="205" y1="50" y2="50"></line>
+            <line stroke="black" x1="195" x2="205" y1="125" y2="125"></line>
+            <line stroke="black" x1="195" x2="205" y1="275" y2="275"></line>
+            <line stroke="black" x1="195" x2="205" y1="350" y2="350"></line>
+            <!--- Units --->
+            <text fill="black" x="40" y="190">-R</text>
+            <text fill="black" x="110" y="190">-R/2</text>
+            <text fill="black" x="265" y="190">R/2</text>
+            <text fill="black" x="345" y="190">R</text>
+            <text fill="black" x="210" y="54">R</text>
+            <text fill="black" x="210" y="128">R/2</text>
+            <text fill="black" x="210" y="278">-R/2</text>
+            <text fill="black" x="210" y="353">-R</text>
+            <text fill="black" x="387" y="190">X</text>
+            <text fill="black" x="210" y="10">Y</text>
+            <!--- Areas --->
+            <polygon fill="pink" fill-opacity="0.4" points="50,200 200,200 200,275 50,275" stroke="black"></polygon>
+            <polygon fill="yellow" fill-opacity="0.4" points="125,200 200,125 200,200" stroke="black"></polygon>
+            <path d="M 200,125 A 75,75  90 0,1 275,200 L 200,200 Z" fill="orange" fill-opacity="0.4"
+                  stroke="black"></path>
+            <!--- Shot shadow --->
+            <circle id="dot" fill="blue" color="blue" r="0" cx="0" cy="0"/>
+        </svg>
+        <div class="form">
+            <form id="form" name="form" method="post">
+                <div class="text_input_type">
+                    <div class="y">
+                        <label for="y_value">Y value</label>
+                        <input type="text" maxlength="10" name="y_value" id="y_value">
+                        <div class="error_text" id="error_y"></div>
+                    </div>
+                    <div class="r">
+                        <label for="r_value">R value</label>
+                        <input type="text" maxlength="10" name="r_value" id="r_value">
+                        <div class="error_text" id="error_r"></div>
+                    </div>
+                </div>
+                <div class="radio">
+                    <label for="x_value1" id="x_value1_label">X value</label>
+                    <div class="x_value">
+                        <input type="radio" required name="x_value" id="x_value1" value="-3" checked><span>-3</span>
+                        <input type="radio" required name="x_value" id="x_value2" value="-2"><span>-2</span>
+                        <input type="radio" required name="x_value" id="x_value3" value="-1"><span>-1</span>
+                        <input type="radio" required name="x_value" id="x_value4" value="0"><span>0</span>
+                        <input type="radio" required name="x_value" id="x_value5" value="1"><span>1</span>
+                        <input type="radio" required name="x_value" id="x_value6" value="2"><span>2</span>
+                        <input type="radio" required name="x_value" id="x_value7" value="3"><span>3</span>
+                        <input type="radio" required name="x_value" id="x_value8" value="4"><span>4</span>
+                        <input type="radio" required name="x_value" id="x_value9" value="5"><span>5</span>
+                    </div>
+                </div>
+                <div class="buttons">
+                    <input id="send" type="submit" value="SUBMIT">
+                    <input type="reset" value="RESET" onclick="clean_errors()">
+                </div>
+            </form>
+        </div>
+    </section>
+    <section class="table_section">
+        <table class="table">
+            <tr>
+                <th>X</th>
+                <th>Y</th>
+                <th>R</th>
+                <th>Current time</th>
+                <th>Execution time</th>
+                <th>Match</th>
+            </tr>
+        </table>
+    </section>
+</main>
+<script src="js/validation.js"></script>
+<script src="js/form.js"></script>
+</body>
+</html>

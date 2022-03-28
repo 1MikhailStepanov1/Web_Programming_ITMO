@@ -1,0 +1,621 @@
+30.09.21 11:45:31: variables are defined: x: 1, y: 2, r: 2
+30.09.21 11:45:31: {"x_value" : 1,"y_value" : 2,"r_value" : 2,"time": 11:45:31,"duration": 9.4008 ms,"result": <span>FALSE</span>}
+30.09.21 11:45:31: Data was sent to client.
+30.09.21 11:51:51: variables are defined: x: 1, y: 2, r: 2
+30.09.21 11:51:51: {"x_value" : 1,"y_value" : 2,"r_value" : 2,"time": 11:51:51,"duration": 17.3712 ms,"result": <span>FALSE</span>}
+30.09.21 11:51:51: Data was sent to client.
+30.09.21 11:51:52: variables are defined: x: 1, y: 2, r: 2
+30.09.21 11:51:52: {"x_value" : 1,"y_value" : 2,"r_value" : 2,"time": 11:51:52,"duration": 10.4785 ms,"result": <span>FALSE</span>}
+30.09.21 11:51:52: Data was sent to client.
+30.09.21 11:51:53: variables are defined: x: 1, y: 2, r: 2
+30.09.21 11:51:53: {"x_value" : 1,"y_value" : 2,"r_value" : 2,"time": 11:51:53,"duration": 11.7016 ms,"result": <span>FALSE</span>}
+30.09.21 11:51:53: Data was sent to client.
+30.09.21 11:51:54: variables are defined: x: 1, y: 2, r: 2
+30.09.21 11:51:54: {"x_value" : 1,"y_value" : 2,"r_value" : 2,"time": 11:51:54,"duration": 10.6812 ms,"result": <span>FALSE</span>}
+30.09.21 11:51:54: Data was sent to client.
+30.09.21 11:51:55: variables are defined: x: 1, y: 2, r: 2
+30.09.21 11:51:55: {"x_value" : 1,"y_value" : 2,"r_value" : 2,"time": 11:51:55,"duration": 11.9114 ms,"result": <span>FALSE</span>}
+30.09.21 11:51:55: Data was sent to client.
+30.09.21 11:57:29: variables are defined: x: 0, y: 2, r: 2
+30.09.21 11:57:29: TRUE
+30.09.21 11:57:29: {"x_value" : 0,"y_value" : 2,"r_value" : 2,"time": 11:57:29,"duration": 24.8098 ms,"result": TRUE}
+30.09.21 11:57:29: Data was sent to client.
+30.09.21 12:13:31: variables are defined: x: 1, y: 2, r: 2
+30.09.21 12:13:31: {"x_value" : 1,"y_value" : 2,"r_value" : 2,"time": 12:13:31,"duration": 8.2421 ms,"result": <span>FALSE</span>}
+30.09.21 12:13:31: Data was sent to client.
+30.09.21 12:17:49: variables are defined: x: 0, y: 2, r: 2
+30.09.21 12:17:49: TRUE
+30.09.21 12:17:49: {"x_value" : 0, "y_value" : 2, "r_value" : 2, "current_time" : "12:17:49", "duration" : "15.5997", "result" : "TRUE"}
+30.09.21 12:17:49: Data was sent to client.
+30.09.21 12:18:07: variables are defined: x: 1, y: 2, r: 2
+30.09.21 12:18:07: {"x_value" : 1, "y_value" : 2, "r_value" : 2, "current_time" : "12:18:07", "duration" : "6.5207", "result" : "FALSE"}
+30.09.21 12:18:07: Data was sent to client.
+30.09.21 16:02:38: variables are defined: x: 1, y: 2, r: 2
+30.09.21 16:02:38: {"x_value" : 1, "y_value" : 2, "r_value" : 2, "current_time" : "04:02:38", "duration" : "8.1182", "result" : "FALSE"}
+30.09.21 16:02:38: Data was sent to client.
+30.09.21 16:26:18: variables are defined: x: 1, y: 2, r: 2
+30.09.21 16:26:18: {"x_value" : 1, "y_value" : 2, "r_value" : 2, "current_time" : "04:26:18", "duration" : "13.7687", "result" : "FALSE"}
+30.09.21 16:26:18: Data was sent to client.
+30.09.21 16:26:33: variables are defined: x: -3, y: 2, r: 2
+30.09.21 16:26:33: {"x_value" : -3, "y_value" : 2, "r_value" : 2, "current_time" : "04:26:33", "duration" : "42.0594", "result" : "FALSE"}
+30.09.21 16:26:33: Data was sent to client.
+30.09.21 16:26:34: variables are defined: x: -3, y: 2, r: 2
+30.09.21 16:26:34: {"x_value" : -3, "y_value" : 2, "r_value" : 2, "current_time" : "04:26:34", "duration" : "9.532", "result" : "FALSE"}
+30.09.21 16:26:34: Data was sent to client.
+30.09.21 16:27:46: variables are defined: x: 1, y: 2, r: 2
+30.09.21 16:27:46: {"x_value" : 1, "y_value" : 2, "r_value" : 2, "current_time" : "04:27:46", "duration" : "21.7509", "result" : "FALSE"}
+30.09.21 16:27:46: Data was sent to client.
+30.09.21 16:28:08: variables are defined: x: 1, y: 2, r: 2
+30.09.21 16:28:08: {"x_value" : 1, "y_value" : 2, "r_value" : 2, "current_time" : "04:28:08", "duration" : "12.3096", "result" : "FALSE"}
+30.09.21 16:28:08: Data was sent to client.
+30.09.21 16:29:00: variables are defined: x: 1, y: 2, r: 2
+30.09.21 16:29:00: {"x_value" : 1, "y_value" : 2, "r_value" : 2, "current_time" : "04:29:00", "duration" : "11.9805", "result" : "FALSE"}
+30.09.21 16:29:00: Data was sent to client.
+30.09.21 16:30:36: variables are defined: x: -3, y: 2, r: 2
+30.09.21 16:30:36: {x_value : -3, "y_value" : 2, "r_value" : 2, "current_time" : "04:30:36", "duration" : "8.1587", "result" : "FALSE"}
+30.09.21 16:30:36: Data was sent to client.
+30.09.21 16:30:55: variables are defined: x: -3, y: 2, r: 2
+30.09.21 16:30:55: {x_value : -3, "y_value" : 2, "r_value" : 2, "current_time" : "04:30:55", "duration" : "11.3201", "result" : "FALSE"}
+30.09.21 16:30:55: Data was sent to client.
+30.09.21 16:33:35: variables are defined: x: -3, y: 3, r: 2
+30.09.21 16:33:35: {"x_value" : -3, "y_value" : 3, "r_value" : 2, "current_time" : "04:33:35", "duration" : "10.2496", "result" : "FALSE"}
+30.09.21 16:33:35: Data was sent to client.
+30.09.21 16:38:03: variables are defined: x: -3, y: 2, r: 2
+30.09.21 16:38:03: {'x_value' : -3, "y_value" : 2, "r_value" : 2, "current_time" : "04:38:03", "duration" : "16.7584", "result" : "FALSE"}
+30.09.21 16:38:03: Data was sent to client.
+30.09.21 16:45:15: variables are defined: x: -3, y: 2, r: 2
+30.09.21 16:45:15: {"x_value' : -3, "y_value" : 2, "r_value" : 2, "current_time" : "04:45:15", "duration" : "10.4499", "result" : "FALSE"}
+30.09.21 16:45:15: Data was sent to client.
+30.09.21 16:45:24: variables are defined: x: -3, y: 2, r: 2
+30.09.21 16:45:24: {"x_value' : -3, "y_value" : 2, "r_value" : 2, "current_time" : "04:45:24", "duration" : "9.7108", "result" : "FALSE"}
+30.09.21 16:45:24: Data was sent to client.
+30.09.21 16:46:25: variables are defined: x: -3, y: 3, r: 2
+30.09.21 16:46:25: {"x_value" : -3, "y_value" : 3, "r_value" : 2, "current_time" : "04:46:25", "duration" : "8.08", "result" : "FALSE"}
+30.09.21 16:46:25: Data was sent to client.
+30.09.21 16:47:18: variables are defined: x: -3, y: 3, r: 2
+30.09.21 16:47:18: {"x_value" : -3, "y_value" : 3, "r_value" : 2, "current_time" : "04:47:18", "duration" : "12.6696", "result" : "FALSE"}
+30.09.21 16:47:18: Data was sent to client.
+30.09.21 16:47:56: variables are defined: x: -3, y: 3, r: 2
+30.09.21 16:47:56: {"x_value" : -3, "y_value" : 3, "r_value" : 2, "current_time" : "04:47:56", "duration" : "47.7314", "result" : "FALSE"}
+30.09.21 16:47:56: Data was sent to client.
+30.09.21 16:47:58: variables are defined: x: -3, y: 3, r: 2
+30.09.21 16:47:58: {"x_value" : -3, "y_value" : 3, "r_value" : 2, "current_time" : "04:47:58", "duration" : "12.7912", "result" : "FALSE"}
+30.09.21 16:47:58: Data was sent to client.
+30.09.21 16:48:11: variables are defined: x: -3, y: 2, r: 2
+30.09.21 16:48:11: {"x_value" : -3, "y_value" : 2, "r_value" : 2, "current_time" : "04:48:11", "duration" : "13.1798", "result" : "FALSE"}
+30.09.21 16:48:11: Data was sent to client.
+30.09.21 16:50:08: variables are defined: x: -3, y: 2, r: 2
+30.09.21 16:50:08: {"x_value" : -3, "y_value" : 2, "r_value" : 2, "current_time" : "04:50:08", "duration" : "9.6297", "result" : "FALSE"}
+30.09.21 16:50:08: Data was sent to client.
+30.09.21 16:52:03: variables are defined: x: -3, y: 2, r: 2
+30.09.21 16:52:03: {"x_value' : -3, "y_value" : 2, "r_value" : 2, "current_time" : "04:52:03", "duration" : "16.3698", "result" : "FALSE"}
+30.09.21 16:52:03: Data was sent to client.
+30.09.21 16:52:14: variables are defined: x: -3, y: 2, r: 2
+30.09.21 16:52:14: {"x_value' : -3, "y_value' : 2, "r_value" : 2, "current_time" : "04:52:14", "duration" : "10.3307", "result" : "FALSE"}
+30.09.21 16:52:14: Data was sent to client.
+30.09.21 16:52:40: variables are defined: x: -3, y: 2, r: 2
+30.09.21 16:52:40: {'x_value' : -3, 'y_value' : 2, 'r_value' : 2, "current_time" : "04:52:40", "duration" : "9.8515", "result" : "FALSE"}
+30.09.21 16:52:40: Data was sent to client.
+30.09.21 16:52:58: variables are defined: x: -3, y: 2, r: 2
+30.09.21 16:52:58: {"x_value" : -3, 'y_value' : 2, 'r_value' : 2, "current_time" : "04:52:58", "duration" : "8.0109", "result" : "FALSE"}
+30.09.21 16:52:58: Data was sent to client.
+30.09.21 16:53:11: variables are defined: x: -3, y: 2, r: 2
+30.09.21 16:53:11: {"x_value" : -3, "y_value" : 2, 'r_value' : 2, "current_time" : "04:53:11", "duration" : "9.3794", "result" : "FALSE"}
+30.09.21 16:53:11: Data was sent to client.
+30.09.21 16:53:23: variables are defined: x: -3, y: 2, r: 2
+30.09.21 16:53:23: {"x_value" : -3, "y_value" : 2, "r_value" : 2, "current_time" : "04:53:23", "duration" : "8.0395", "result" : "FALSE"}
+30.09.21 16:53:23: Data was sent to client.
+30.09.21 16:55:34: variables are defined: x: -3, y: 2, r: 2
+30.09.21 16:55:34: {"x_value" : -3, "y_value" : 2, "r_value" : 2, "current_time" : "04:55:34", "duration" : 24.0302, "result" : "FALSE"}
+30.09.21 16:55:34: Data was sent to client.
+30.09.21 17:01:12: variables are defined: x: -3, y: 2, r: 2
+30.09.21 17:01:12: {"x_value" : -3, "y_value" : 2, "r_value" : 2, "current_time" : "05:01:12", "duration" : 14.5912, "result" : "FALSE"}
+30.09.21 17:01:12: Data was sent to client.
+30.09.21 17:02:04: variables are defined: x: -3, y: 2, r: 2
+30.09.21 17:02:04: {"x_value" : -3, "y_value" : 2, "r_value" : 2, "current_time" : "05:02:04", "duration" : 8.5306, "result" : "FALSE"}
+30.09.21 17:02:04: Data was sent to client.
+30.09.21 17:06:03: variables are defined: x: -3, y: 2, r: 2
+30.09.21 17:06:03: {"x_value":"-3","y_value":"2","r_value":"2","current_time":"05:06:03","duration":12.1593,"result":"FALSE"}
+30.09.21 17:06:03: Data was sent to client.
+30.09.21 17:06:40: variables are defined: x: -3, y: 2, r: 2
+30.09.21 17:06:40: {"x_value":"-3","y_value":"2","r_value":"2","current_time":"05:06:40","duration":5.7316,"result":"FALSE"}
+30.09.21 17:06:40: Data was sent to client.
+30.09.21 17:07:44: variables are defined: x: 0, y: 2, r: 2
+30.09.21 17:07:44: TRUE
+30.09.21 17:07:44: {"x_value":"0","y_value":"2","r_value":"2","current_time":"05:07:44","duration":15.6283,"result":"TRUE"}
+30.09.21 17:07:44: Data was sent to client.
+30.09.21 17:08:14: variables are defined: x: -3, y: 2, r: 2
+30.09.21 17:08:14: {"x_value":"-3","y_value":"2","r_value":"2","current_time":"05:08:14","duration":9.0599,"result":"FALSE"}
+30.09.21 17:08:14: Data was sent to client.
+30.09.21 17:08:37: variables are defined: x: 1, y: 2, r: 2
+30.09.21 17:08:37: {"x_value" : 1, "y_value" : 2, "r_value" : 2, "current_time" : "05:08:37", "duration" : 9.0289, "result" : "FALSE"}
+30.09.21 17:08:37: Data was sent to client.
+30.09.21 17:23:41: variables are defined: x: -3, y: 2, r: 2
+30.09.21 17:23:41: {"x_value" : -3, "y_value" : 2, "r_value" : 2, "current_time" : "05:23:41", "duration" : 15.6903, "result" : "FALSE"}
+30.09.21 17:23:41: Data was sent to client.
+30.09.21 17:23:42: variables are defined: x: -3, y: 2, r: 2
+30.09.21 17:23:42: {"x_value" : -3, "y_value" : 2, "r_value" : 2, "current_time" : "05:23:42", "duration" : 9.3794, "result" : "FALSE"}
+30.09.21 17:23:42: Data was sent to client.
+30.09.21 17:23:43: variables are defined: x: -3, y: 2, r: 2
+30.09.21 17:23:43: {"x_value" : -3, "y_value" : 2, "r_value" : 2, "current_time" : "05:23:43", "duration" : 9.2697, "result" : "FALSE"}
+30.09.21 17:23:43: Data was sent to client.
+30.09.21 17:25:11: variables are defined: x: -1, y: 2, r: 2
+30.09.21 17:25:11: {"x_value" : -1, "y_value" : 2, "r_value" : 2, "current_time" : "05:25:11", "duration" : 10.9887, "result" : "FALSE"}
+30.09.21 17:25:11: Data was sent to client.
+30.09.21 17:26:06: variables are defined: x: -3, y: 2, r: 2
+30.09.21 17:26:06: {"x_value" : -3, "y_value" : 2, "r_value" : 2, "current_time" : "05:26:06", "duration" : 16.2792, "result" : "FALSE"}
+30.09.21 17:26:06: Data was sent to client.
+30.09.21 17:26:42: variables are defined: x: -3, y: 2, r: 2
+30.09.21 17:26:42: {"x_value" : -3, "y_value" : 2, "r_value" : 2, "current_time" : "05:26:42", "duration" : 11.3916, "result" : "FALSE"}
+30.09.21 17:26:42: Data was sent to client.
+30.09.21 17:26:50: variables are defined: x: 0, y: 2, r: 2
+30.09.21 17:26:50: TRUE
+30.09.21 17:26:50: {"x_value" : 0, "y_value" : 2, "r_value" : 2, "current_time" : "05:26:50", "duration" : 14.3504, "result" : "TRUE"}
+30.09.21 17:26:50: Data was sent to client.
+30.09.21 17:27:31: variables are defined: x: -3, y: 2, r: 2
+30.09.21 17:27:31: {"x_value" : -3, "y_value" : 2, "r_value" : 2, "current_time" : "05:27:31", "duration" : 12.0783, "result" : "FALSE"}
+30.09.21 17:27:31: Data was sent to client.
+30.09.21 17:29:03: variables are defined: x: -3, y: 2, r: 2
+30.09.21 17:29:03: {"x_value" : -3, "y_value" : 2, "r_value" : 2, "current_time" : "05:29:03", "duration" : 13.5994, "result" : "FALSE"}
+30.09.21 17:29:03: Data was sent to client.
+30.09.21 17:34:00: variables are defined: x: -3, y: 2, r: 2
+30.09.21 17:34:00: {"x_value" : -3, "y_value" : 2, "r_value" : 2, "current_time" : "05:34:00", "duration" : 8.4305, "result" : "FALSE"}
+30.09.21 17:34:00: Data was sent to client.
+30.09.21 17:34:38: variables are defined: x: -3, y: 2, r: 2
+30.09.21 17:34:38: {"x_value" : -3, "y_value" : 2, "r_value" : 2, "current_time" : "05:34:38", "duration" : 6.69 ms, "result" : "FALSE"}
+30.09.21 17:34:38: Data was sent to client.
+30.09.21 17:59:26: variables are defined: x: -1, y: 2, r: 2
+30.09.21 17:59:26: {"x_value" : -1, "y_value" : 2, "r_value" : 2, "current_time" : "05:59:26", "duration" : 7.7295, "result" : "FALSE"}
+30.09.21 17:59:26: Data was sent to client.
+30.09.21 18:01:36: variables are defined: x: -1, y: 2, r: 2
+30.09.21 18:01:36: {"x_value" : -1, "y_value" : 2, "r_value" : 2, "current_time" : "18:01:36 30-09-2021", "duration" : 7.05, "result" : "FALSE"}
+30.09.21 18:01:36: Data was sent to client.
+30.09.21 18:01:52: variables are defined: x: -1, y: 2, r: 2
+30.09.21 18:01:52: {"x_value" : -1, "y_value" : 2, "r_value" : 2, "current_time" : "18:01:52", "duration" : 7.6509, "result" : "FALSE"}
+30.09.21 18:01:52: Data was sent to client.
+30.09.21 18:01:59: variables are defined: x: 1, y: 2, r: 2
+30.09.21 18:01:59: {"x_value" : 1, "y_value" : 2, "r_value" : 2, "current_time" : "18:01:59", "duration" : 7.2289, "result" : "FALSE"}
+30.09.21 18:01:59: Data was sent to client.
+30.09.21 18:05:29: variables are defined: x: -1, y: 2, r: 2
+30.09.21 18:05:29: {"x_value" : -1, "y_value" : 2, "r_value" : 2, "current_time" : "18:05:29", "duration" : 6.628, "result" : "FALSE"}
+30.09.21 18:05:29: Data was sent to client.
+30.09.21 18:06:25: variables are defined: x: -1, y: 2, r: 2
+30.09.21 18:06:25: {"x_value" : -1, "y_value" : 2, "r_value" : 2, "current_time" : "18:06:25", "duration" : 7.3004, "result" : "FALSE"}
+30.09.21 18:06:25: Data was sent to client.
+30.09.21 18:06:51: variables are defined: x: 0, y: 2, r: 2
+30.09.21 18:06:51: TRUE
+30.09.21 18:06:51: {"x_value" : 0, "y_value" : 2, "r_value" : 2, "current_time" : "18:06:51", "duration" : 10.6192, "result" : "TRUE"}
+30.09.21 18:06:51: Data was sent to client.
+30.09.21 18:32:14: variables are defined: x: 0, y: 2, r: 2
+30.09.21 18:32:14: TRUE
+30.09.21 18:32:14: {"x_value" : 0, "y_value" : 2, "r_value" : 2, "current_time" : "18:32:14", "duration" : 10.0899, "result" : "TRUE"}
+30.09.21 18:32:14: Data was sent to client.
+30.09.21 18:32:17: variables are defined: x: 0, y: 2, r: 2
+30.09.21 18:32:17: TRUE
+30.09.21 18:32:17: {"x_value" : 0, "y_value" : 2, "r_value" : 2, "current_time" : "18:32:17", "duration" : 10.8695, "result" : "TRUE"}
+30.09.21 18:32:17: Data was sent to client.
+30.09.21 18:32:18: variables are defined: x: 0, y: 2, r: 2
+30.09.21 18:32:18: TRUE
+30.09.21 18:32:18: {"x_value" : 0, "y_value" : 2, "r_value" : 2, "current_time" : "18:32:18", "duration" : 13.6805, "result" : "TRUE"}
+30.09.21 18:32:18: Data was sent to client.
+30.09.21 18:32:18: variables are defined: x: 0, y: 2, r: 2
+30.09.21 18:32:18: TRUE
+30.09.21 18:32:18: {"x_value" : 0, "y_value" : 2, "r_value" : 2, "current_time" : "18:32:18", "duration" : 10.159, "result" : "TRUE"}
+30.09.21 18:32:18: Data was sent to client.
+30.09.21 18:32:19: variables are defined: x: 0, y: 2, r: 2
+30.09.21 18:32:19: TRUE
+30.09.21 18:32:19: {"x_value" : 0, "y_value" : 2, "r_value" : 2, "current_time" : "18:32:19", "duration" : 8.7404, "result" : "TRUE"}
+30.09.21 18:32:19: Data was sent to client.
+30.09.21 18:32:19: variables are defined: x: 0, y: 2, r: 2
+30.09.21 18:32:19: TRUE
+30.09.21 18:32:19: {"x_value" : 0, "y_value" : 2, "r_value" : 2, "current_time" : "18:32:19", "duration" : 10.7002, "result" : "TRUE"}
+30.09.21 18:32:19: Data was sent to client.
+30.09.21 18:32:20: variables are defined: x: 0, y: 2, r: 2
+30.09.21 18:32:20: TRUE
+30.09.21 18:32:20: {"x_value" : 0, "y_value" : 2, "r_value" : 2, "current_time" : "18:32:20", "duration" : 9.47, "result" : "TRUE"}
+30.09.21 18:32:20: Data was sent to client.
+30.09.21 18:32:20: variables are defined: x: 0, y: 2, r: 2
+30.09.21 18:32:20: TRUE
+30.09.21 18:32:20: {"x_value" : 0, "y_value" : 2, "r_value" : 2, "current_time" : "18:32:20", "duration" : 10.3593, "result" : "TRUE"}
+30.09.21 18:32:20: Data was sent to client.
+30.09.21 18:32:21: variables are defined: x: 0, y: 2, r: 2
+30.09.21 18:32:21: TRUE
+30.09.21 18:32:21: {"x_value" : 0, "y_value" : 2, "r_value" : 2, "current_time" : "18:32:21", "duration" : 13.3395, "result" : "TRUE"}
+30.09.21 18:32:21: Data was sent to client.
+30.09.21 18:32:32: variables are defined: x: 0, y: 2, r: 2
+30.09.21 18:32:32: TRUE
+30.09.21 18:32:32: {"x_value" : 0, "y_value" : 2, "r_value" : 2, "current_time" : "18:32:32", "duration" : 10.8194, "result" : "TRUE"}
+30.09.21 18:32:32: Data was sent to client.
+30.09.21 18:32:45: variables are defined: x: 0, y: 3, r: 2
+30.09.21 18:32:45: {"x_value" : 0, "y_value" : 3, "r_value" : 2, "current_time" : "18:32:45", "duration" : 7.72, "result" : "FALSE"}
+30.09.21 18:32:45: Data was sent to client.
+14.10.21 12:35:01: variables are defined: x: -1, y: 2, r: 2
+14.10.21 12:35:01: {"x_value" : -1, "y_value" : 2, "r_value" : 2, "current_time" : "12:35:01", "duration" : 199.6589, "result" : "FALSE"}
+14.10.21 12:35:01: Data was sent to client.
+14.10.21 12:35:03: variables are defined: x: -1, y: 2, r: 2
+14.10.21 12:35:03: {"x_value" : -1, "y_value" : 2, "r_value" : 2, "current_time" : "12:35:03", "duration" : 5.25, "result" : "FALSE"}
+14.10.21 12:35:03: Data was sent to client.
+14.10.21 12:35:03: variables are defined: x: -1, y: 2, r: 2
+14.10.21 12:35:03: {"x_value" : -1, "y_value" : 2, "r_value" : 2, "current_time" : "12:35:03", "duration" : 5.8198, "result" : "FALSE"}
+14.10.21 12:35:03: Data was sent to client.
+14.10.21 12:35:03: variables are defined: x: -1, y: 2, r: 2
+14.10.21 12:35:03: {"x_value" : -1, "y_value" : 2, "r_value" : 2, "current_time" : "12:35:03", "duration" : 5.2404, "result" : "FALSE"}
+14.10.21 12:35:03: Data was sent to client.
+14.10.21 12:35:03: variables are defined: x: -1, y: 2, r: 2
+14.10.21 12:35:03: {"x_value" : -1, "y_value" : 2, "r_value" : 2, "current_time" : "12:35:03", "duration" : 7.5316, "result" : "FALSE"}
+14.10.21 12:35:03: Data was sent to client.
+14.10.21 12:35:07: variables are defined: x: 0, y: 2, r: 2
+14.10.21 12:35:07: TRUE
+14.10.21 12:35:07: {"x_value" : 0, "y_value" : 2, "r_value" : 2, "current_time" : "12:35:07", "duration" : 9.5391, "result" : "TRUE"}
+14.10.21 12:35:07: Data was sent to client.
+14.10.21 12:35:13: variables are defined: x: 5, y: 2, r: 2
+14.10.21 12:35:13: {"x_value" : 5, "y_value" : 2, "r_value" : 2, "current_time" : "12:35:13", "duration" : 6.0081, "result" : "FALSE"}
+14.10.21 12:35:13: Data was sent to client.
+14.10.21 12:35:55: variables are defined: x: 0, y: 2, r: 2
+14.10.21 12:35:55: TRUE
+14.10.21 12:35:55: {"x_value" : 0, "y_value" : 2, "r_value" : 2, "current_time" : "12:35:55", "duration" : 11.8899, "result" : "TRUE"}
+14.10.21 12:35:55: Data was sent to client.
+14.10.21 12:36:38: variables are defined: x: 0, y: 2, r: 2
+14.10.21 12:36:38: TRUE
+14.10.21 12:36:38: {"x_value" : 0, "y_value" : 2, "r_value" : 2, "current_time" : "12:36:38", "duration" : 12.0282, "result" : "TRUE"}
+14.10.21 12:36:38: Data was sent to client.
+14.10.21 12:36:57: variables are defined: x: 0, y: 2, r: 2
+14.10.21 12:36:57: TRUE
+14.10.21 12:36:57: {"x_value" : 0, "y_value" : 2, "r_value" : 2, "current_time" : "12:36:57", "duration" : 10.19, "result" : "TRUE"}
+14.10.21 12:36:57: Data was sent to client.
+14.10.21 12:37:00: variables are defined: x: 1, y: 2, r: 2
+14.10.21 12:37:00: {"x_value" : 1, "y_value" : 2, "r_value" : 2, "current_time" : "12:37:00", "duration" : 6.5899, "result" : "FALSE"}
+14.10.21 12:37:00: Data was sent to client.
+14.10.21 12:37:02: variables are defined: x: 3, y: 2, r: 2
+14.10.21 12:37:02: {"x_value" : 3, "y_value" : 2, "r_value" : 2, "current_time" : "12:37:02", "duration" : 6.7282, "result" : "FALSE"}
+14.10.21 12:37:02: Data was sent to client.
+14.10.21 12:38:27: variables are defined: x: -1, y: 2, r: 2
+14.10.21 12:38:27: {"x_value" : -1, "y_value" : 2, "r_value" : 2, "current_time" : "12:38:27", "duration" : 11.0197, "result" : "FALSE"}
+14.10.21 12:38:27: Data was sent to client.
+14.10.21 12:39:41: variables are defined: x: -1, y: 2, r: 2
+14.10.21 12:39:41: {"x_value" : -1, "y_value" : 2, "r_value" : 2, "current_time" : "12:39:41", "duration" : 6.7902, "result" : "FALSE"}
+14.10.21 12:39:41: Data was sent to client.
+14.10.21 13:54:34: variables are defined: x: -3, y: 2, r: 2
+14.10.21 13:54:34: {"x_value" : -3, "y_value" : 2, "r_value" : 2, "current_time" : "13:54:34", "duration" : 7.1192, "result" : "FALSE"}
+14.10.21 13:54:34: Data was sent to client.
+14.10.21 14:04:54: variables are defined: x: 1, y: 2, r: 2
+14.10.21 14:04:54: {"x_value" : 1, "y_value" : 2, "r_value" : 2, "current_time" : "14:04:54", "duration" : 14.1406, "result" : "FALSE"}
+14.10.21 14:04:54: Data was sent to client.
+14.10.21 14:04:55: variables are defined: x: 1, y: 2, r: 2
+14.10.21 14:04:55: {"x_value" : 1, "y_value" : 2, "r_value" : 2, "current_time" : "14:04:55", "duration" : 6.1297, "result" : "FALSE"}
+14.10.21 14:04:55: Data was sent to client.
+14.10.21 14:04:55: variables are defined: x: 1, y: 2, r: 2
+14.10.21 14:04:55: {"x_value" : 1, "y_value" : 2, "r_value" : 2, "current_time" : "14:04:55", "duration" : 6.6304, "result" : "FALSE"}
+14.10.21 14:04:55: Data was sent to client.
+14.10.21 14:04:55: variables are defined: x: 1, y: 2, r: 2
+14.10.21 14:04:55: {"x_value" : 1, "y_value" : 2, "r_value" : 2, "current_time" : "14:04:55", "duration" : 6.0892, "result" : "FALSE"}
+14.10.21 14:04:55: Data was sent to client.
+14.10.21 14:04:55: variables are defined: x: 1, y: 2, r: 2
+14.10.21 14:04:55: {"x_value" : 1, "y_value" : 2, "r_value" : 2, "current_time" : "14:04:55", "duration" : 5.5099, "result" : "FALSE"}
+14.10.21 14:04:55: Data was sent to client.
+14.10.21 14:04:55: variables are defined: x: 1, y: 2, r: 2
+14.10.21 14:04:55: {"x_value" : 1, "y_value" : 2, "r_value" : 2, "current_time" : "14:04:55", "duration" : 5.6481, "result" : "FALSE"}
+14.10.21 14:04:55: Data was sent to client.
+14.10.21 14:04:56: variables are defined: x: 1, y: 2, r: 2
+14.10.21 14:04:56: {"x_value" : 1, "y_value" : 2, "r_value" : 2, "current_time" : "14:04:56", "duration" : 5.9295, "result" : "FALSE"}
+14.10.21 14:04:56: Data was sent to client.
+14.10.21 14:04:56: variables are defined: x: 1, y: 2, r: 2
+14.10.21 14:04:56: {"x_value" : 1, "y_value" : 2, "r_value" : 2, "current_time" : "14:04:56", "duration" : 6.1989, "result" : "FALSE"}
+14.10.21 14:04:56: Data was sent to client.
+14.10.21 14:04:57: variables are defined: x: 1, y: 2, r: 2
+14.10.21 14:04:57: {"x_value" : 1, "y_value" : 2, "r_value" : 2, "current_time" : "14:04:57", "duration" : 5.4216, "result" : "FALSE"}
+14.10.21 14:04:57: Data was sent to client.
+14.10.21 14:06:08: variables are defined: x: 1, y: 2, r: 2
+14.10.21 14:06:08: {"x_value" : 1, "y_value" : 2, "r_value" : 2, "current_time" : "14:06:08", "duration" : 7.1406, "result" : "FALSE"}
+14.10.21 14:06:08: Data was sent to client.
+14.10.21 14:07:12: variables are defined: x: -3, y: 2, r: 2
+14.10.21 14:07:12: {"x_value" : -3, "y_value" : 2, "r_value" : 2, "current_time" : "14:07:12", "duration" : 7.5793, "result" : "FALSE"}
+14.10.21 14:07:12: Data was sent to client.
+14.10.21 14:07:14: variables are defined: x: -3, y: 2, r: 2
+14.10.21 14:07:14: {"x_value" : -3, "y_value" : 2, "r_value" : 2, "current_time" : "14:07:14", "duration" : 6.2895, "result" : "FALSE"}
+14.10.21 14:07:14: Data was sent to client.
+14.10.21 14:07:14: variables are defined: x: -3, y: 2, r: 2
+14.10.21 14:07:14: {"x_value" : -3, "y_value" : 2, "r_value" : 2, "current_time" : "14:07:14", "duration" : 9.8991, "result" : "FALSE"}
+14.10.21 14:07:14: Data was sent to client.
+14.10.21 14:07:18: variables are defined: x: -3, y: 1, r: 5
+14.10.21 14:07:18: {"x_value" : -3, "y_value" : 1, "r_value" : 5, "current_time" : "14:07:18", "duration" : 11.2104, "result" : "FALSE"}
+14.10.21 14:07:18: Data was sent to client.
+14.10.21 14:07:40: variables are defined: x: 0, y: 1, r: 5
+14.10.21 14:07:40: TRUE
+14.10.21 14:07:40: {"x_value" : 0, "y_value" : 1, "r_value" : 5, "current_time" : "14:07:40", "duration" : 9.7108, "result" : "TRUE"}
+14.10.21 14:07:40: Data was sent to client.
+14.10.21 14:07:41: variables are defined: x: 0, y: 1, r: 5
+14.10.21 14:07:41: TRUE
+14.10.21 14:07:41: {"x_value" : 0, "y_value" : 1, "r_value" : 5, "current_time" : "14:07:41", "duration" : 8.8787, "result" : "TRUE"}
+14.10.21 14:07:41: Data was sent to client.
+14.10.21 14:07:42: variables are defined: x: 0, y: 1, r: 5
+14.10.21 14:07:42: TRUE
+14.10.21 14:07:42: {"x_value" : 0, "y_value" : 1, "r_value" : 5, "current_time" : "14:07:42", "duration" : 9.16, "result" : "TRUE"}
+14.10.21 14:07:42: Data was sent to client.
+14.10.21 14:09:41: variables are defined: x: 0, y: 2, r: 2
+14.10.21 14:09:41: TRUE
+14.10.21 14:09:41: {"x_value" : 0, "y_value" : 2, "r_value" : 2, "current_time" : "14:09:41", "duration" : 13.1392, "result" : "TRUE"}
+14.10.21 14:09:41: Data was sent to client.
+14.10.21 14:10:18: variables are defined: x: -3, y: 2, r: 2
+14.10.21 14:10:18: {"x_value" : -3, "y_value" : 2, "r_value" : 2, "current_time" : "14:10:18", "duration" : 5.9295, "result" : "FALSE"}
+14.10.21 14:10:18: Data was sent to client.
+14.10.21 14:10:19: variables are defined: x: -3, y: 2, r: 2
+14.10.21 14:10:19: {"x_value" : -3, "y_value" : 2, "r_value" : 2, "current_time" : "14:10:19", "duration" : 5.6696, "result" : "FALSE"}
+14.10.21 14:10:19: Data was sent to client.
+14.10.21 14:10:19: variables are defined: x: -3, y: 2, r: 2
+14.10.21 14:10:19: {"x_value" : -3, "y_value" : 2, "r_value" : 2, "current_time" : "14:10:19", "duration" : 5.6291, "result" : "FALSE"}
+14.10.21 14:10:19: Data was sent to client.
+14.10.21 14:10:19: variables are defined: x: -3, y: 2, r: 2
+14.10.21 14:10:19: {"x_value" : -3, "y_value" : 2, "r_value" : 2, "current_time" : "14:10:19", "duration" : 5.4097, "result" : "FALSE"}
+14.10.21 14:10:19: Data was sent to client.
+14.10.21 14:10:19: variables are defined: x: -3, y: 2, r: 2
+14.10.21 14:10:19: {"x_value" : -3, "y_value" : 2, "r_value" : 2, "current_time" : "14:10:19", "duration" : 5.5718, "result" : "FALSE"}
+14.10.21 14:10:19: Data was sent to client.
+14.10.21 14:10:19: variables are defined: x: -3, y: 2, r: 2
+14.10.21 14:10:19: {"x_value" : -3, "y_value" : 2, "r_value" : 2, "current_time" : "14:10:19", "duration" : 5.3692, "result" : "FALSE"}
+14.10.21 14:10:19: Data was sent to client.
+14.10.21 14:10:19: variables are defined: x: -3, y: 2, r: 2
+14.10.21 14:10:19: {"x_value" : -3, "y_value" : 2, "r_value" : 2, "current_time" : "14:10:19", "duration" : 5.4693, "result" : "FALSE"}
+14.10.21 14:10:19: Data was sent to client.
+14.10.21 14:10:20: variables are defined: x: -3, y: 2, r: 2
+14.10.21 14:10:20: {"x_value" : -3, "y_value" : 2, "r_value" : 2, "current_time" : "14:10:20", "duration" : 5.4622, "result" : "FALSE"}
+14.10.21 14:10:20: Data was sent to client.
+14.10.21 14:10:20: variables are defined: x: -3, y: 2, r: 2
+14.10.21 14:10:20: {"x_value" : -3, "y_value" : 2, "r_value" : 2, "current_time" : "14:10:20", "duration" : 4.8709, "result" : "FALSE"}
+14.10.21 14:10:20: Data was sent to client.
+14.10.21 14:10:20: variables are defined: x: -3, y: 2, r: 2
+14.10.21 14:10:20: {"x_value" : -3, "y_value" : 2, "r_value" : 2, "current_time" : "14:10:20", "duration" : 6.0606, "result" : "FALSE"}
+14.10.21 14:10:20: Data was sent to client.
+14.10.21 14:10:22: variables are defined: x: -3, y: 2, r: 2
+14.10.21 14:10:22: {"x_value" : -3, "y_value" : 2, "r_value" : 2, "current_time" : "14:10:22", "duration" : 5.6195, "result" : "FALSE"}
+14.10.21 14:10:22: Data was sent to client.
+14.10.21 14:10:22: variables are defined: x: -3, y: 2, r: 2
+14.10.21 14:10:22: {"x_value" : -3, "y_value" : 2, "r_value" : 2, "current_time" : "14:10:22", "duration" : 5.5718, "result" : "FALSE"}
+14.10.21 14:10:22: Data was sent to client.
+14.10.21 14:10:22: variables are defined: x: -3, y: 2, r: 2
+14.10.21 14:10:22: {"x_value" : -3, "y_value" : 2, "r_value" : 2, "current_time" : "14:10:22", "duration" : 5.5814, "result" : "FALSE"}
+14.10.21 14:10:22: Data was sent to client.
+14.10.21 14:10:24: variables are defined: x: -3, y: 2, r: 2
+14.10.21 14:10:24: {"x_value" : -3, "y_value" : 2, "r_value" : 2, "current_time" : "14:10:24", "duration" : 7.3195, "result" : "FALSE"}
+14.10.21 14:10:24: Data was sent to client.
+14.10.21 14:10:24: variables are defined: x: -3, y: 2, r: 2
+14.10.21 14:10:24: {"x_value" : -3, "y_value" : 2, "r_value" : 2, "current_time" : "14:10:24", "duration" : 5.8103, "result" : "FALSE"}
+14.10.21 14:10:24: Data was sent to client.
+14.10.21 14:10:24: variables are defined: x: -3, y: 2, r: 2
+14.10.21 14:10:24: {"x_value" : -3, "y_value" : 2, "r_value" : 2, "current_time" : "14:10:24", "duration" : 6.1107, "result" : "FALSE"}
+14.10.21 14:10:24: Data was sent to client.
+14.10.21 14:10:24: variables are defined: x: -3, y: 2, r: 2
+14.10.21 14:10:24: {"x_value" : -3, "y_value" : 2, "r_value" : 2, "current_time" : "14:10:24", "duration" : 7.5507, "result" : "FALSE"}
+14.10.21 14:10:24: Data was sent to client.
+14.10.21 14:11:11: variables are defined: x: -3, y: 2, r: 2
+14.10.21 14:11:11: {"x_value" : -3, "y_value" : 2, "r_value" : 2, "current_time" : "14:11:11", "duration" : 6.69, "result" : "FALSE"}
+14.10.21 14:11:11: Data was sent to client.
+14.10.21 14:11:12: variables are defined: x: -3, y: 2, r: 2
+14.10.21 14:11:12: {"x_value" : -3, "y_value" : 2, "r_value" : 2, "current_time" : "14:11:12", "duration" : 5.4502, "result" : "FALSE"}
+14.10.21 14:11:12: Data was sent to client.
+14.10.21 14:11:12: variables are defined: x: -3, y: 2, r: 2
+14.10.21 14:11:12: {"x_value" : -3, "y_value" : 2, "r_value" : 2, "current_time" : "14:11:12", "duration" : 6.2013, "result" : "FALSE"}
+14.10.21 14:11:12: Data was sent to client.
+14.10.21 14:11:12: variables are defined: x: -3, y: 2, r: 2
+14.10.21 14:11:12: {"x_value" : -3, "y_value" : 2, "r_value" : 2, "current_time" : "14:11:12", "duration" : 5.9509, "result" : "FALSE"}
+14.10.21 14:11:12: Data was sent to client.
+14.10.21 14:11:13: variables are defined: x: -3, y: 2, r: 2
+14.10.21 14:11:13: {"x_value" : -3, "y_value" : 2, "r_value" : 2, "current_time" : "14:11:13", "duration" : 6.1393, "result" : "FALSE"}
+14.10.21 14:11:13: Data was sent to client.
+14.10.21 14:11:14: variables are defined: x: -3, y: 2, r: 2
+14.10.21 14:11:14: {"x_value" : -3, "y_value" : 2, "r_value" : 2, "current_time" : "14:11:14", "duration" : 6.0606, "result" : "FALSE"}
+14.10.21 14:11:14: Data was sent to client.
+14.10.21 14:11:53: variables are defined: x: -3, y: 2, r: 2
+14.10.21 14:11:53: {"x_value" : -3, "y_value" : 2, "r_value" : 2, "current_time" : "14:11:53", "duration" : 6.5207, "result" : "FALSE"}
+14.10.21 14:11:53: Data was sent to client.
+14.10.21 14:11:54: variables are defined: x: -3, y: 2, r: 2
+14.10.21 14:11:54: {"x_value" : -3, "y_value" : 2, "r_value" : 2, "current_time" : "14:11:54", "duration" : 7.081, "result" : "FALSE"}
+14.10.21 14:11:54: Data was sent to client.
+14.10.21 14:11:54: variables are defined: x: -3, y: 2, r: 2
+14.10.21 14:11:54: {"x_value" : -3, "y_value" : 2, "r_value" : 2, "current_time" : "14:11:54", "duration" : 5.9223, "result" : "FALSE"}
+14.10.21 14:11:54: Data was sent to client.
+14.10.21 14:11:54: variables are defined: x: -3, y: 2, r: 2
+14.10.21 14:11:54: {"x_value" : -3, "y_value" : 2, "r_value" : 2, "current_time" : "14:11:54", "duration" : 5.7197, "result" : "FALSE"}
+14.10.21 14:11:54: Data was sent to client.
+14.10.21 14:12:19: variables are defined: x: 0, y: 2, r: 2
+14.10.21 14:12:19: TRUE
+14.10.21 14:12:19: {"x_value" : 0, "y_value" : 2, "r_value" : 2, "current_time" : "14:12:19", "duration" : 10.4499, "result" : "TRUE"}
+14.10.21 14:12:19: Data was sent to client.
+14.10.21 14:12:23: variables are defined: x: 2, y: 2, r: 2
+14.10.21 14:12:23: {"x_value" : 2, "y_value" : 2, "r_value" : 2, "current_time" : "14:12:23", "duration" : 7.5507, "result" : "FALSE"}
+14.10.21 14:12:23: Data was sent to client.
+14.10.21 14:12:23: variables are defined: x: 2, y: 2, r: 2
+14.10.21 14:12:23: {"x_value" : 2, "y_value" : 2, "r_value" : 2, "current_time" : "14:12:23", "duration" : 5.8794, "result" : "FALSE"}
+14.10.21 14:12:23: Data was sent to client.
+14.10.21 14:12:24: variables are defined: x: 2, y: 2, r: 2
+14.10.21 14:12:24: {"x_value" : 2, "y_value" : 2, "r_value" : 2, "current_time" : "14:12:24", "duration" : 5.6815, "result" : "FALSE"}
+14.10.21 14:12:24: Data was sent to client.
+14.10.21 14:12:24: variables are defined: x: 2, y: 2, r: 2
+14.10.21 14:12:24: {"x_value" : 2, "y_value" : 2, "r_value" : 2, "current_time" : "14:12:24", "duration" : 6.7592, "result" : "FALSE"}
+14.10.21 14:12:24: Data was sent to client.
+14.10.21 14:12:24: variables are defined: x: 2, y: 2, r: 2
+14.10.21 14:12:24: {"x_value" : 2, "y_value" : 2, "r_value" : 2, "current_time" : "14:12:24", "duration" : 5.5909, "result" : "FALSE"}
+14.10.21 14:12:24: Data was sent to client.
+14.10.21 14:12:27: variables are defined: x: 4, y: 2, r: 2
+14.10.21 14:12:27: {"x_value" : 4, "y_value" : 2, "r_value" : 2, "current_time" : "14:12:27", "duration" : 9.079, "result" : "FALSE"}
+14.10.21 14:12:27: Data was sent to client.
+14.10.21 14:13:05: variables are defined: x: -3, y: 2, r: 2
+14.10.21 14:13:05: {"x_value" : -3, "y_value" : 2, "r_value" : 2, "current_time" : "14:13:05", "duration" : 6.5112, "result" : "FALSE"}
+14.10.21 14:13:05: Data was sent to client.
+14.10.21 14:13:23: variables are defined: x: 0, y: 2, r: 2
+14.10.21 14:13:23: TRUE
+14.10.21 14:13:23: {"x_value" : 0, "y_value" : 2, "r_value" : 2, "current_time" : "14:13:23", "duration" : 14.5817, "result" : "TRUE"}
+14.10.21 14:13:23: Data was sent to client.
+14.10.21 14:14:56: variables are defined: x: 0, y: 2, r: 2
+14.10.21 14:14:56: TRUE
+14.10.21 14:14:56: {"x_value" : 0, "y_value" : 2, "r_value" : 2, "current_time" : "14:14:56", "duration" : 9.2101, "result" : "TRUE"}
+14.10.21 14:14:56: Data was sent to client.
+14.10.21 14:20:27: variables are defined: x: -1, y: 2, r: 2
+14.10.21 14:20:27: {"x_value" : -1, "y_value" : 2, "r_value" : 2, "current_time" : "14:20:27", "duration" : 7.0095, "result" : "FALSE"}
+14.10.21 14:20:27: Data was sent to client.
+14.10.21 14:21:09: variables are defined: x: 0, y: 2, r: 2
+14.10.21 14:21:09: TRUE
+14.10.21 14:21:09: {"x_value" : 0, "y_value" : 2, "r_value" : 2, "current_time" : "14:21:09", "duration" : 9.439, "result" : "TRUE"}
+14.10.21 14:21:09: Data was sent to client.
+14.10.21 14:22:58: variables are defined: x: 0, y: 2, r: 2
+14.10.21 14:22:58: TRUE
+14.10.21 14:22:58: {"x_value" : 0, "y_value" : 2, "r_value" : 2, "current_time" : "14:22:58", "duration" : 10.469, "result" : "TRUE"}
+14.10.21 14:22:58: Data was sent to client.
+14.10.21 14:23:37: variables are defined: x: 0, y: 2, r: 2
+14.10.21 14:23:37: TRUE
+14.10.21 14:23:37: {"x_value" : 0, "y_value" : 2, "r_value" : 2, "current_time" : "14:23:37", "duration" : 10.3116, "result" : "TRUE"}
+14.10.21 14:23:37: Data was sent to client.
+14.10.21 14:23:40: variables are defined: x: 0, y: 2, r: 2
+14.10.21 14:23:40: TRUE
+14.10.21 14:23:40: {"x_value" : 0, "y_value" : 2, "r_value" : 2, "current_time" : "14:23:40", "duration" : 12.2619, "result" : "TRUE"}
+14.10.21 14:23:40: Data was sent to client.
+14.10.21 14:23:41: variables are defined: x: 0, y: 2, r: 2
+14.10.21 14:23:41: TRUE
+14.10.21 14:23:41: {"x_value" : 0, "y_value" : 2, "r_value" : 2, "current_time" : "14:23:41", "duration" : 13.2608, "result" : "TRUE"}
+14.10.21 14:23:41: Data was sent to client.
+14.10.21 14:23:54: variables are defined: x: 2, y: -2, r: 3
+14.10.21 14:23:54: {"x_value" : 2, "y_value" : -2, "r_value" : 3, "current_time" : "14:23:54", "duration" : 6.5398, "result" : "FALSE"}
+14.10.21 14:23:54: Data was sent to client.
+14.10.21 14:24:48: variables are defined: x: 0, y: 0, r: 2
+14.10.21 14:24:48: TRUE
+14.10.21 14:24:48: {"x_value" : 0, "y_value" : 0, "r_value" : 2, "current_time" : "14:24:48", "duration" : 10.1089, "result" : "TRUE"}
+14.10.21 14:24:48: Data was sent to client.
+14.10.21 14:25:03: variables are defined: x: 0, y: -1, r: 2
+14.10.21 14:25:03: {"x_value" : 0, "y_value" : -1, "r_value" : 2, "current_time" : "14:25:03", "duration" : 7.3385, "result" : "FALSE"}
+14.10.21 14:25:03: Data was sent to client.
+14.10.21 14:25:24: variables are defined: x: 0, y: 1, r: 2
+14.10.21 14:25:24: TRUE
+14.10.21 14:25:24: {"x_value" : 0, "y_value" : 1, "r_value" : 2, "current_time" : "14:25:24", "duration" : 11.2391, "result" : "TRUE"}
+14.10.21 14:25:24: Data was sent to client.
+14.10.21 14:25:33: variables are defined: x: 0, y: -1, r: 2
+14.10.21 14:25:33: {"x_value" : 0, "y_value" : -1, "r_value" : 2, "current_time" : "14:25:33", "duration" : 6.0511, "result" : "FALSE"}
+14.10.21 14:25:33: Data was sent to client.
+14.10.21 14:25:34: variables are defined: x: 0, y: -1, r: 2
+14.10.21 14:25:34: {"x_value" : 0, "y_value" : -1, "r_value" : 2, "current_time" : "14:25:34", "duration" : 6.9785, "result" : "FALSE"}
+14.10.21 14:25:34: Data was sent to client.
+14.10.21 14:25:36: variables are defined: x: 0, y: -1, r: 2
+14.10.21 14:25:36: {"x_value" : 0, "y_value" : -1, "r_value" : 2, "current_time" : "14:25:36", "duration" : 7.0286, "result" : "FALSE"}
+14.10.21 14:25:36: Data was sent to client.
+14.10.21 14:25:44: variables are defined: x: -1, y: -1, r: 2
+14.10.21 14:25:44: TRUE
+14.10.21 14:25:44: {"x_value" : -1, "y_value" : -1, "r_value" : 2, "current_time" : "14:25:44", "duration" : 18.2104, "result" : "TRUE"}
+14.10.21 14:25:44: Data was sent to client.
+14.10.21 14:25:47: variables are defined: x: 0, y: -1, r: 2
+14.10.21 14:25:47: {"x_value" : 0, "y_value" : -1, "r_value" : 2, "current_time" : "14:25:47", "duration" : 6.299, "result" : "FALSE"}
+14.10.21 14:25:47: Data was sent to client.
+14.10.21 14:25:49: variables are defined: x: -2, y: -1, r: 2
+14.10.21 14:25:49: TRUE
+14.10.21 14:25:49: {"x_value" : -2, "y_value" : -1, "r_value" : 2, "current_time" : "14:25:49", "duration" : 11.1389, "result" : "TRUE"}
+14.10.21 14:25:49: Data was sent to client.
+14.10.21 14:26:30: variables are defined: x: -1, y: -1, r: 2
+14.10.21 14:26:30: TRUE
+14.10.21 14:26:30: {"x_value" : -1, "y_value" : -1, "r_value" : 2, "current_time" : "14:26:30", "duration" : 9.8419, "result" : "TRUE"}
+14.10.21 14:26:30: Data was sent to client.
+14.10.21 14:26:51: variables are defined: x: 5, y: -1, r: 5
+14.10.21 14:26:51: {"x_value" : 5, "y_value" : -1, "r_value" : 5, "current_time" : "14:26:51", "duration" : 7.1716, "result" : "FALSE"}
+14.10.21 14:26:51: Data was sent to client.
+14.10.21 14:26:53: variables are defined: x: -1, y: -1, r: 5
+14.10.21 14:26:53: TRUE
+14.10.21 14:26:53: {"x_value" : -1, "y_value" : -1, "r_value" : 5, "current_time" : "14:26:53", "duration" : 9.8205, "result" : "TRUE"}
+14.10.21 14:26:53: Data was sent to client.
+14.10.21 14:26:54: variables are defined: x: -1, y: -1, r: 5
+14.10.21 14:26:54: TRUE
+14.10.21 14:26:54: {"x_value" : -1, "y_value" : -1, "r_value" : 5, "current_time" : "14:26:54", "duration" : 8.9693, "result" : "TRUE"}
+14.10.21 14:26:54: Data was sent to client.
+14.10.21 14:27:03: variables are defined: x: -2, y: 0.5, r: 5
+14.10.21 14:27:03: TRUE
+14.10.21 14:27:03: {"x_value" : -2, "y_value" : 0.5, "r_value" : 5, "current_time" : "14:27:03", "duration" : 10.2687, "result" : "TRUE"}
+14.10.21 14:27:03: Data was sent to client.
+14.10.21 14:27:20: variables are defined: x: -2, y: 0.2222, r: 5
+14.10.21 14:27:20: TRUE
+14.10.21 14:27:20: {"x_value" : -2, "y_value" : 0.2222, "r_value" : 5, "current_time" : "14:27:20", "duration" : 17.0779, "result" : "TRUE"}
+14.10.21 14:27:20: Data was sent to client.
+14.10.21 14:27:29: variables are defined: x: -2, y: 0.2222, r: 4.999
+14.10.21 14:27:29: TRUE
+14.10.21 14:27:29: {"x_value" : -2, "y_value" : 0.2222, "r_value" : 4.999, "current_time" : "14:27:29", "duration" : 10.8099, "result" : "TRUE"}
+14.10.21 14:27:29: Data was sent to client.
+14.10.21 15:55:51: variables are defined: x: 0, y: 2.878876, r: 2
+14.10.21 15:55:51: {"x_value" : 0, "y_value" : 2.878876, "r_value" : 2, "current_time" : "15:55:51", "duration" : 7.1311, "result" : "FALSE"}
+14.10.21 15:55:51: Data was sent to client.
+14.10.21 16:29:24: variables are defined: x: 1, y: 2, r: 2
+14.10.21 16:29:24: {"x_value" : 1, "y_value" : 2, "r_value" : 2, "current_time" : "16:29:24", "duration" : 12.5217, "result" : "FALSE"}
+14.10.21 16:29:24: Data was sent to client.
+14.10.21 16:29:27: variables are defined: x: 1, y: 2, r: 2
+14.10.21 16:29:27: {"x_value" : 1, "y_value" : 2, "r_value" : 2, "current_time" : "16:29:27", "duration" : 6.9308, "result" : "FALSE"}
+14.10.21 16:29:27: Data was sent to client.
+14.10.21 16:29:27: variables are defined: x: 1, y: 2, r: 2
+14.10.21 16:29:27: {"x_value" : 1, "y_value" : 2, "r_value" : 2, "current_time" : "16:29:27", "duration" : 8.6093, "result" : "FALSE"}
+14.10.21 16:29:27: Data was sent to client.
+14.10.21 16:29:53: variables are defined: x: 0, y: -1, r: 2
+14.10.21 16:29:53: {"x_value" : 0, "y_value" : -1, "r_value" : 2, "current_time" : "16:29:53", "duration" : 10.0398, "result" : "FALSE"}
+14.10.21 16:29:53: Data was sent to client.
+14.10.21 16:30:36: variables are defined: x: 0, y: 2, r: 2
+14.10.21 16:30:36: TRUE
+14.10.21 16:30:36: {"x_value" : 0, "y_value" : 2, "r_value" : 2, "current_time" : "16:30:36", "duration" : 16.7823, "result" : "TRUE"}
+14.10.21 16:30:36: Data was sent to client.
+14.10.21 17:04:55: variables are defined: x: 0, y: 2, r: 2
+14.10.21 17:04:55: TRUE
+14.10.21 17:04:55: {"x_value" : 0, "y_value" : 2, "r_value" : 2, "current_time" : "17:04:55", "duration" : 16.6988, "result" : "TRUE"}
+14.10.21 17:04:55: Data was sent to client.
+14.10.21 17:04:55: variables are defined: x: 0, y: 2, r: 2
+14.10.21 17:04:55: TRUE
+14.10.21 17:04:55: {"x_value" : 0, "y_value" : 2, "r_value" : 2, "current_time" : "17:04:55", "duration" : 20.4301, "result" : "TRUE"}
+14.10.21 17:04:55: Data was sent to client.
+14.10.21 17:04:56: variables are defined: x: 0, y: 2, r: 2
+14.10.21 17:04:56: TRUE
+14.10.21 17:04:56: {"x_value" : 0, "y_value" : 2, "r_value" : 2, "current_time" : "17:04:56", "duration" : 14.2503, "result" : "TRUE"}
+14.10.21 17:04:56: Data was sent to client.
+14.10.21 17:04:56: variables are defined: x: 0, y: 2, r: 2
+14.10.21 17:04:56: TRUE
+14.10.21 17:04:56: {"x_value" : 0, "y_value" : 2, "r_value" : 2, "current_time" : "17:04:56", "duration" : 14.8511, "result" : "TRUE"}
+14.10.21 17:04:56: Data was sent to client.
+14.10.21 17:04:56: variables are defined: x: 0, y: 2, r: 2
+14.10.21 17:04:56: TRUE
+14.10.21 17:04:56: {"x_value" : 0, "y_value" : 2, "r_value" : 2, "current_time" : "17:04:56", "duration" : 14.1788, "result" : "TRUE"}
+14.10.21 17:04:56: Data was sent to client.
+14.10.21 17:04:57: variables are defined: x: 0, y: 2, r: 2
+14.10.21 17:04:57: TRUE
+14.10.21 17:04:57: {"x_value" : 0, "y_value" : 2, "r_value" : 2, "current_time" : "17:04:57", "duration" : 13.7019, "result" : "TRUE"}
+14.10.21 17:04:57: Data was sent to client.
+14.10.21 17:05:06: variables are defined: x: 0, y: 2, r: 2.235235
+14.10.21 17:05:06: TRUE
+14.10.21 17:05:06: {"x_value" : 0, "y_value" : 2, "r_value" : 2.235235, "current_time" : "17:05:06", "duration" : 15.5878, "result" : "TRUE"}
+14.10.21 17:05:06: Data was sent to client.
+14.10.21 17:09:21: variables are defined: x: 0, y: 2, r: 2
+14.10.21 17:09:21: TRUE
+14.10.21 17:09:21: {"x_value" : 0, "y_value" : 2, "r_value" : 2, "current_time" : "17:09:21", "duration" : 17.7789, "result" : "TRUE"}
+14.10.21 17:09:21: Data was sent to client.
+14.10.21 17:09:22: variables are defined: x: 0, y: 2, r: 2
+14.10.21 17:09:22: TRUE
+14.10.21 17:09:22: {"x_value" : 0, "y_value" : 2, "r_value" : 2, "current_time" : "17:09:22", "duration" : 20.0796, "result" : "TRUE"}
+14.10.21 17:09:22: Data was sent to client.
+14.10.21 17:09:22: variables are defined: x: 0, y: 2, r: 2
+14.10.21 17:09:22: TRUE
+14.10.21 17:09:22: {"x_value" : 0, "y_value" : 2, "r_value" : 2, "current_time" : "17:09:22", "duration" : 14.9608, "result" : "TRUE"}
+14.10.21 17:09:22: Data was sent to client.
+14.10.21 17:09:22: variables are defined: x: 0, y: 2, r: 2
+14.10.21 17:09:22: TRUE
+14.10.21 17:09:22: {"x_value" : 0, "y_value" : 2, "r_value" : 2, "current_time" : "17:09:22", "duration" : 14.8487, "result" : "TRUE"}
+14.10.21 17:09:22: Data was sent to client.
+14.10.21 17:09:27: variables are defined: x: 0, y: -1, r: 2
+14.10.21 17:09:27: {"x_value" : 0, "y_value" : -1, "r_value" : 2, "current_time" : "17:09:27", "duration" : 9.8896, "result" : "FALSE"}
+14.10.21 17:09:27: Data was sent to client.
+14.10.21 17:09:28: variables are defined: x: 0, y: -1, r: 2
+14.10.21 17:09:28: {"x_value" : 0, "y_value" : -1, "r_value" : 2, "current_time" : "17:09:28", "duration" : 10.6287, "result" : "FALSE"}
+14.10.21 17:09:28: Data was sent to client.
+14.10.21 17:09:28: variables are defined: x: 0, y: -1, r: 2
+14.10.21 17:09:28: {"x_value" : 0, "y_value" : -1, "r_value" : 2, "current_time" : "17:09:28", "duration" : 8.5497, "result" : "FALSE"}
+14.10.21 17:09:28: Data was sent to client.
+14.10.21 17:12:04: variables are defined: x: 0, y: -1, r: 2
+14.10.21 17:12:04: TRUE
+14.10.21 17:12:04: {"x_value" : 0, "y_value" : -1, "r_value" : 2, "current_time" : "17:12:04", "duration" : 18.5394, "result" : "TRUE"}
+14.10.21 17:12:04: Data was sent to client.
+14.10.21 17:26:38: variables are defined: x: 0, y: 2, r: 2
+14.10.21 17:26:38: {"x_value" : 0, "y_value" : 2, "r_value" : 2, "current_time" : "17:26:38", "duration" : 7.0691, "result" : "FALSE"}
+14.10.21 17:26:38: Data was sent to client.
+14.10.21 17:33:38: variables are defined: x: 0, y: 2, r: 2
+14.10.21 17:33:38: {"x_value" : 0, "y_value" : 2, "r_value" : 2, "current_time" : "17:33:38", "duration" : 12.8698, "result" : "FALSE"}
+14.10.21 17:33:38: Data was sent to client.
+14.10.21 17:34:50: variables are defined: x: 0, y: 2, r: 2
+14.10.21 17:34:50: {"x_value" : 0, "y_value" : 2, "r_value" : 2, "current_time" : "17:34:50", "duration" : 11.1699, "result" : "FALSE"}
+14.10.21 17:34:50: Data was sent to client.
